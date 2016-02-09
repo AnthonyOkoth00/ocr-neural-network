@@ -1,3 +1,3 @@
 # ocr-neural-network
 
-Implementation of a one-vs-all logistic regression and neural networks to recognize handwritten digits.
+Implementation of a one-vs-all logistic regression and a neural network (without backward propagation) to recognize handwritten digits.
